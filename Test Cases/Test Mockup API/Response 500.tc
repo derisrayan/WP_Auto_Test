@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Response 500 Internal Server Error</description>
+   <name>Response 500</name>
+   <tag>500internalservererror</tag>
+   <comment></comment>
+   <testCaseGuid>d313a268-d5a6-400d-b49f-b1e111fb0d2f</testCaseGuid>
+</TestCaseEntity>

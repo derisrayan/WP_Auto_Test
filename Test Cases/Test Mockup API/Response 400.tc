@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Response 400 Bad Request</description>
+   <name>Response 400</name>
+   <tag>400badrequest</tag>
+   <comment></comment>
+   <testCaseGuid>d8ab6f6d-790f-4fc7-af46-194b27a14444</testCaseGuid>
+</TestCaseEntity>

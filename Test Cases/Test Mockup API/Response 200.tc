@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Response 200 OK</description>
+   <name>Response 200</name>
+   <tag>200ok</tag>
+   <comment></comment>
+   <testCaseGuid>46949074-7076-41db-9bd2-bbb90d53b3e6</testCaseGuid>
+</TestCaseEntity>
